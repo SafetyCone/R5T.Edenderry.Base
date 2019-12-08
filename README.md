@@ -1,0 +1,2 @@
+# R5T.Edenderry.Base
+An example services service defintions base library, containing example service definitions types for the Edenderry project.
